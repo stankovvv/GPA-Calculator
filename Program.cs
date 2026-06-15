@@ -38,16 +38,28 @@ totalGradePoints += course3Credit * course3Grade;
 totalGradePoints += course4Credit * course4Grade;
 totalGradePoints += course5Credit * course5Grade;
 // check if the code works
-Console.WriteLine($"{totalGradePoints} {totalCreditHours}");
+// Console.WriteLine($"{totalGradePoints} {totalCreditHours}");
+decimal gradePointAvg = (decimal)totalGradePoints / totalCreditHours;
 
 // display the output
 //REMINDER FOR MYSELF $ work like jquery to insert some value in the string
 //@ to break some rules of string like new line and tab
-Console.WriteLine($"{course1Name} {course1Grade} {course1Credit}");
-Console.WriteLine($"{course2Name} {course2Grade} {course2Credit}");
-Console.WriteLine($"{course3Name} {course3Grade} {course3Credit}");
-Console.WriteLine($"{course4Name} {course4Grade} {course4Credit}");
-Console.WriteLine($"{course5Name} {course5Grade} {course5Credit}");
+int loadingDigit = (int) gradePointAvg;
+int firstDigit = (int) (gradePointAvg * 10) % 10;
+int secondDigit = (int) (gradePointAvg * 100) % 10;
+
+Console.WriteLine($"Student: {studentName}\n");
+Console.WriteLine("Course\t\tGrade\tCredit Hours");
+Console.WriteLine($"{course1Name}\t\t{course1Grade}\t\t{course1Credit}");
+Console.WriteLine($"{course2Name}\t\t{course2Grade}\t\t{course2Credit}");
+Console.WriteLine($"{course3Name}\t\t{course3Grade}\t\t{course3Credit}");
+Console.WriteLine($"{course4Name}\t{course4Grade}\t\t{course4Credit}");
+Console.WriteLine($"{course5Name}\t\t{course5Grade}\t\t{course5Credit}");
+
+Console.WriteLine($"Final GPA:\t\t{loadingDigit}.{firstDigit}{secondDigit}");
+
+
+
 
 
 
