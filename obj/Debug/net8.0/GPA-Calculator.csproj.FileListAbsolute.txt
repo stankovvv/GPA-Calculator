@@ -1,0 +1,14 @@
+/home/kolyamba/Documents/coding/GPA-Calculator/bin/Debug/net8.0/GPA-Calculator
+/home/kolyamba/Documents/coding/GPA-Calculator/bin/Debug/net8.0/GPA-Calculator.deps.json
+/home/kolyamba/Documents/coding/GPA-Calculator/bin/Debug/net8.0/GPA-Calculator.runtimeconfig.json
+/home/kolyamba/Documents/coding/GPA-Calculator/bin/Debug/net8.0/GPA-Calculator.dll
+/home/kolyamba/Documents/coding/GPA-Calculator/bin/Debug/net8.0/GPA-Calculator.pdb
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.AssemblyInfoInputs.cache
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.AssemblyInfo.cs
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.csproj.CoreCompileInputs.cache
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.dll
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/refint/GPA-Calculator.dll
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.pdb
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.genruntimeconfig.cache
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/ref/GPA-Calculator.dll
