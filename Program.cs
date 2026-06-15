@@ -49,7 +49,7 @@ int firstDigit = (int) (gradePointAvg * 10) % 10;
 int secondDigit = (int) (gradePointAvg * 100) % 10;
 
 Console.WriteLine($"Student: {studentName}\n");
-Console.WriteLine("Course\t\tGrade\tCredit Hours");
+Console.WriteLine("Course\t\t\tGrade\tCredit Hours");
 Console.WriteLine($"{course1Name}\t\t{course1Grade}\t\t{course1Credit}");
 Console.WriteLine($"{course2Name}\t\t{course2Grade}\t\t{course2Credit}");
 Console.WriteLine($"{course3Name}\t\t{course3Grade}\t\t{course3Credit}");
