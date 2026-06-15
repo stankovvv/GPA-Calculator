@@ -12,3 +12,4 @@
 /home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.pdb
 /home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.genruntimeconfig.cache
 /home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/ref/GPA-Calculator.dll
+/home/kolyamba/Documents/coding/GPA-Calculator/obj/Debug/net8.0/GPA-Calculator.sourcelink.json

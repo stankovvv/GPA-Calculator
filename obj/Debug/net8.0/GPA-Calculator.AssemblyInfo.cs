@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GPA-Calculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eadf304bbcd9bfb14bb7616edaff9cfe03212ed2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GPA-Calculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GPA-Calculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

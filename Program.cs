@@ -21,14 +21,24 @@ int course3Grade = gradeB;
 int course4Grade = gradeB;
 int course5Grade = gradeA;
 
+int totalCreditHours = 0;
+// calculate the total credit hours
+// I hope c# has loops
+totalCreditHours += course1Credit;
+totalCreditHours += course2Credit;
+totalCreditHours += course3Credit;
+totalCreditHours += course4Credit;
+totalCreditHours += course5Credit;
+
+
 // display the output
-//REMINDER FOR MYSELF $ work like jquory to insert some value in the string
+//REMINDER FOR MYSELF $ work like jquery to insert some value in the string
 //@ to break some rules of string like new line and tab
-Console.WriteLine($"{course1Name} {course1Grade}");
-Console.WriteLine($"{course2Name} {course2Grade}");
-Console.WriteLine($"{course3Name} {course3Grade}");
-Console.WriteLine($"{course4Name} {course4Grade}");
-Console.WriteLine($"{course5Name} {course5Grade}");
+Console.WriteLine($"{course1Name} {course1Grade} {course1Credit}");
+Console.WriteLine($"{course2Name} {course2Grade} {course2Credit}");
+Console.WriteLine($"{course3Name} {course3Grade} {course3Credit}");
+Console.WriteLine($"{course4Name} {course4Grade} {course4Credit}");
+Console.WriteLine($"{course5Name} {course5Grade} {course5Credit}");
 
 
 
